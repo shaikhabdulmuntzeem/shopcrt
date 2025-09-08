@@ -9,7 +9,6 @@ a {
 }
 
 .maindiv{
-    background-color: rgb(245, 250, 225);
     width: 100%;
 }
 
@@ -1341,4 +1340,5 @@ a {
     height: 28px;
     width: 102px;
     border-radius: 5px;
+
 }
